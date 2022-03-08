@@ -3,10 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.26.0",
     "lbh-frontend": "^3.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
+    "request-promise": "^4.2.6",
     "sass": "^1.32.8"
   },
   "scripts": {

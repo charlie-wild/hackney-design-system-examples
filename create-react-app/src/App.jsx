@@ -1,8 +1,10 @@
-import Accordion from "./Accordion"
+import { JigsawAuth } from "./JigsawAuth"
+
 
 const App = () => (
   <>
-    <Accordion />
+    <h1>Jigsaw Auth Demo</h1>
+    <JigsawAuth />
   </>
 )
 
